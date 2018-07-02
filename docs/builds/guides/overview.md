@@ -60,7 +60,7 @@ To try it out online, check the {@link examples/builds/balloon-editor balloon ed
 
 The document editor is focused on rich text editing experience similar to the native word processors. It works best for creating documents which are usually later printed or exported to PDF files.
 
-{@img assets/img/editor-document.png 786 Screenshot of the user interface of the document editor.}
+{@img assets/img/editor-document.png 800 Screenshot of the user interface of the document editor.}
 
 To try it out online, check the {@link examples/builds/document-editor document editor example}. Jump to {@link builds/guides/quick-start#document-editor Quick start} to start using it.
 
@@ -120,7 +120,7 @@ In the following cases [CKEditor 4](https://ckeditor.com/ckeditor-4/) should be 
 
 * When compatibility with old browsers is a requirement.
 * If CKEditor 4 contains features that are essential for you, which are not available in CKEditor 5 yet.
-* If CKEditor 4 is already in use in you application and you are still not ready to replace it with CKEditor 5.
+* If CKEditor 4 is already in use in your application and you are still not ready to replace it with CKEditor 5.
 
 In the following cases [Letters](https://ckeditor.com/letters/) may be used instead:
 
